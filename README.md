@@ -1,16 +1,7 @@
-# air_quality
+# Air Quality Detector
 
-A new Flutter project.
+A mobile app integrated with ThingSpeak IOT in getting real-time readings from an MQ-135 Air Quality Sensor.
 
-## Getting Started
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-20 at 18 17 49](https://user-images.githubusercontent.com/91986740/226419107-b088f64a-7f43-4611-8e4c-5dc315f28b6d.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-20 at 18 21 55](https://user-images.githubusercontent.com/91986740/226419113-c4c515a9-0085-4394-964f-930a81d504bb.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
